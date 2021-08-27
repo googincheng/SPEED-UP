@@ -15,7 +15,7 @@
 # How-to
  * downlod the repo
  * double click **SPEED UP.sketchplugin** to install
- * use in Sketch
+ * use in Sketch  
 ![how-to](/image/how-to.png)
 
 # Analysis
