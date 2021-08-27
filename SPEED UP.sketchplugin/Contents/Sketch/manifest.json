@@ -1,0 +1,24 @@
+{
+  "author" : "古金禾",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "1⃣️ Kill Other Document",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "⚡️ SPEED UP",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.50f2abdf-af67-4aa0-9890-dc5b2052c23c",
+  "version" : "1.0",
+  "description" : "彻底关闭其他文档，更顺滑地编辑当前文档",
+  "authorEmail" : "googincheng@gmail.com",
+  "name" : "SPEED UP"
+}
