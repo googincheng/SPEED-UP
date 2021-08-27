@@ -1,4 +1,4 @@
-# SPEED UP
+# Sketch Plugin - SPEED UP
  彻底关闭其他文档，更顺滑地编辑当前文档。  
  Kill other documents, smoothly edit current document.
  
@@ -15,6 +15,7 @@
 # How-to
  * downlod the repo
  * double click **SPEED UP.sketchplugin** to install
+ * use in Sketch
 ![how-to](/image/how-to.png)
 
 # Analysis
