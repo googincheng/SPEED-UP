@@ -3,8 +3,8 @@
  Kill other documents, smoothly edit current document.
  
 # Env
- macOS 11  
- Sketch 71
+ * macOS 11  
+ * Sketch 71
  
 # Background
  Sketch gets very slow while opening multiple documents. Even though all the other documents are closed, it still make no difference until you restart the Sketch.
@@ -12,6 +12,11 @@
 # Solution
  I wrote a script to kill other documents by killing the Sketch and reopening current document, which reducing the **times of interactions of restarting**.
  
+# How-to
+ * downlod the repo
+ * double click **SPEED UP.sketchplugin** to install
+![how-to](/image/how-to.png)
+
 # Analysis
  * ⬇️ I printed the **WinID** of one-document-opened Sketch and multi-document-opened-and-closeed Sketch. I Found that even though documents closed,the WinID still exsits. **I have to quit the Sketch (cmd + q) to kill all WinID**. I don't know if this's a bug of macOS. 
 
