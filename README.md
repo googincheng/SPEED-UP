@@ -30,13 +30,13 @@
 ![multi-document-opened-and-closeed Sketch](/image/sketch-opened-multiple-doc.png)
  * ⬇️ Sketch creates **window state** at *'/Users/gujincheng/Library/Saved Application State/com.bohemiancoding.sketch3.savedState'* after document opened, but it deleted automatically after closing document. So this is not the reason.
 
-> one-document-opened Sketch
+> Window state
 
 ![window-state](/image/window-state.png)
 
  * ⬇️ I also try clear **cache** at *'/Users/gujincheng/Library/Caches/com.bohemiancoding.sketch3'*, doesn't work either.
 
-> one-document-opened Sketch
+> Cache
 
 ![cache](/image/cache.png)
 
